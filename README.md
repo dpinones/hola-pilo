@@ -12,3 +12,9 @@ APRENDIENDO GIT
 5
 
 6
+
+7
+
+8
+
+9
